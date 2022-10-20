@@ -28,4 +28,4 @@ LatticeSimpleDecoder知乎链接：（TODO）
 
 ## LatticeFasterDecoder （TODO）
 
-## Dynamic Decodeing （TODO）
+## Dynamic Decoding （TODO）
