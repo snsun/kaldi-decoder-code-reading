@@ -25,3 +25,7 @@ Lattice版本的SimpleDecoder，重点是理解一下两点：
 * 参考Kaldi的官方介绍，理解lattice剪枝的算法（https://kaldi-asr.org/doc/lattices.html#lattices_generation）
 
 LatticeSimpleDecoder知乎链接：（TODO）
+
+## LatticeFasterDecoder （TODO）
+
+## Dynamic Decodeing （TODO）
