@@ -19,3 +19,9 @@ HashList的知乎链接：（TODO）
 
 FasterDecoder知乎链接：（TODO）
 
+## LatticeSimpleDecoder
+Lattice版本的SimpleDecoder，重点是理解一下两点：
+* 搞清楚Token和ForwardLink两个数据结构和相互的关系，参考LatticeSimpleDecoder逐行解析和可视化文件中的简洁模型。只要把这个梳理清楚，理解整个过程就会很简单，不外乎就是一系列指针的操作；
+* 参考Kaldi的官方介绍，理解lattice剪枝的算法（https://kaldi-asr.org/doc/lattices.html#lattices_generation）
+
+LatticeSimpleDecoder知乎链接：（TODO）
