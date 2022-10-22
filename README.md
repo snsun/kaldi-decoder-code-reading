@@ -16,7 +16,7 @@ LatticeSimpleDecoder知乎链接：https://zhuanlan.zhihu.com/p/574805055
 ## HashList
 HashList是FasterDecoder中使用的比较重要的数据结构，巧妙的用一个HashList存储Token，同时具有简单的内存管理，无需频繁的开辟空间。
 
-HashList的知乎链接：（TODO）
+HashList的知乎链接：https://zhuanlan.zhihu.com/p/576125683
 
 ## FasterDecoder
 相比于SimpleDecoder，FasterDecoder的优点在于：
