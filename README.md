@@ -23,7 +23,7 @@ HashList的知乎链接：https://zhuanlan.zhihu.com/p/576125683
 * 采用HashList来对Token进行存储，更加快速高效的操作Token；
 * 更加聪明的剪枝策略，增加了GetCutoff函数，通过max-token和min-token，自适应变化剪枝的beam
 
-FasterDecoder知乎链接：（TODO）
+FasterDecoder知乎链接：https://www.zhihu.com/column/c_1562898571187380224
 
 
 
