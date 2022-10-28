@@ -1,6 +1,7 @@
 # kaldi-decoder-code-reading
 
 本仓库主要是用来分享Kaldi的decoder的代码解读，帮助入门的同学理解解码的过程。虽然网上也有一些文章解析相关代码，但是本项目应该是最全面的解析了几种解码器。并且重新绘制了一些简洁的模型图，帮助理解代码里用到的数据结构。本仓库不包含代码，只有一些代码解读的pdf的分享，包括SimpleDecoder，FasterDecoder，以及Lattice的版本。对应的知乎专栏为：https://www.zhihu.com/column/c_1562898571187380224
+
 整个解码器的代码，从简到繁，推荐大家学习的顺序是：SimpleDecoder->HashList->FasterDecoder->LatticeSimpleDecoder->LatticeFasterDecoder，或者SimpleDecoder->LatticeSimpleDecoder->HashList->FasterDecoder->LatticeFasterDecoder
 ## SimpleDecoder
 最基础的解码器，真的非常简单，对应的SimpleDecoder的pdf文件逐步的展开了解码过程中Token的变化，基本上逐行解析了代码和代码中处理的各种情况。
